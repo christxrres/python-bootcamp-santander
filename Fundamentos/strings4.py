@@ -1,9 +1,9 @@
 nome = "Christofer"
 
 mensagem = f"""
-Olé meu nome é {nome},
+Olá, meu nome é {nome}.
     Eu estou aprendendo Python
-        Eu estou aprendendo Python
+        com o Bootcamp Santander!
 """
 
 print(mensagem)
